@@ -1,0 +1,7 @@
+{
+  "name": "fracttal-spaid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
